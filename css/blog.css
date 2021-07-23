@@ -1,0 +1,67 @@
+.h40 {
+    height: 40px;
+}
+.h20 {
+    height: 20px;
+}
+
+.pagging {
+    margin: 0 0 20px;
+    padding: 0;
+}
+.pagging ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.pagging ul li {
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+.pagging ul li a {
+    float: left;
+    display: block;
+    color: #333;
+    text-decoration: none;
+    margin-right: 5px;
+    padding: 5px 10px;
+    background: #fff;
+    border: 1px solid #ccc;
+}
+.divider .meta {
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+.divider .meta span {
+    float: left;
+    display: block;
+    margin-right: 20px;
+    padding: 5px 0 5px 30px;
+}
+.divider .meta span.admin {
+    background: url(../img/ad.png) no-repeat;
+}
+.divider .meta span.date {
+    background: url(../img/date.png) no-repeat;
+}
+.divider .meta span.tag {
+    background: url(../img/tag.png) no-repeat;
+}
+.divider .meta span.comment {
+    background: url(../img/chat.png) no-repeat;
+}
+a.more {
+    display: inline-block;
+    padding-left: 12px;
+    background: url(../img/dau.png) no-repeat 0 5px;
+}
+a, a:link, a:visited {
+    color: #01b8c7;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.float_r {
+    float: right;
+}

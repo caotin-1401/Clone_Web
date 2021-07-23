@@ -1,0 +1,70 @@
+h2 a {
+   font-size: 18px;
+   line-height: 18px;
+   margin-bottom: 5px;
+   padding: 0;
+   margin: 0 0 25px;
+   color: #333;
+   font-weight: normal;
+   text-decoration: none;
+}
+h2:hover a {
+   text-decoration: underline;
+}
+.fp_services img {
+   float: left;
+   margin-right: 20px;
+}
+.fp_services h2 {
+   font-size: 18px;
+   line-height: 18px;
+   margin-bottom: 5px;
+   padding: 0px;
+}
+.fp_services {
+   padding-bottom: 30px;
+}
+p {
+   margin: 0 0 10px 0;
+   padding: 0;   
+}
+
+#slider {
+   height: 408px;
+   width: 100%;
+   padding: 32px 52px;
+   margin-bottom: 30px;
+   position: relative;
+   background: url(../img/khhung.png) center no-repeat;
+   background-size: 100%;
+}
+.sliding{
+   width: 100%;
+} 
+.slide {
+   margin: auto;
+   width: 1000px;
+   height: 345px;
+   top: 0;
+   border-left: 5px;   
+} 
+.slider {   
+   overflow: hidden;
+}
+.sliding{
+   width: 9999px;
+   transition: all 0.5s;
+} 
+#prev {
+   top: 80px;
+   left: 15px;
+   position: absolute;
+}
+#next {
+   top: 80px;
+   right:  15px;
+   position: absolute;
+}
+
+
+

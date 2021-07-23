@@ -1,0 +1,68 @@
+.contact_info {
+    font-size: 30px;
+    margin: 0px 0px 25px;
+    padding: 5px 0px;
+    color: rgb(51, 51, 51);
+    font-weight: normal;
+}
+.cleaner {
+    clear: both;
+}
+.half {
+    width: 400px;
+}
+.float_l {
+    float: left;
+}
+.float_r {
+    float: right;
+}
+.h10 {
+    height: 10px;
+}
+.contact_form form .form_control {
+    width: 270px;
+    padding: 5px;
+    color: rgb(34, 34, 34);
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(222, 222, 222);
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    margin-top: 5px;
+}
+.mess {
+    width: 386px;
+    height: 200px;
+    padding: 5px;
+    color: rgb(34, 34, 34);
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(222, 222, 222);
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    margin-top: 5px;
+}
+.contact_form form .submit_btn {
+    padding: 5px 14px;
+    font-weight: bold;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(222, 222, 222);
+}
+.contact_form form .submit_btn {
+    padding: 5px 14px;
+    font-weight: bold;
+    background: #fff;
+    border: 1px solid #dedede;
+}
+.submit_btn:hover {
+    cursor: pointer;
+}
+h6 {
+    font-size: 12px;
+    margin: 0 0 5px;
+    padding: 0;
+}
+.address {
+    color: #01b8c7;
+    font-weight: normal;
+    text-decoration: none;
+}
